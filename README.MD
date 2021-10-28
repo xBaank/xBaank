@@ -23,6 +23,7 @@
 
 ## Contacto  
 
+<a href="https://twitter.com/Bankyz_BS"><img src="twittericon.png" width=70 ></a> <a href="https://github.com/xBaank"><img src="githubicon.svg" width=70 ></a>
 
 
 
