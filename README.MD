@@ -1,9 +1,11 @@
-#  <img src="bonfire2.webp" width=70 > Mi nombre es Roberto y soy un estudiante de DAM.
+#  <img src="bonfire2.webp" width=70 > Roberto Blázquez Martín <img src="bonfire2.webp" width=70 > 
 
-![A test image](bonfire.gif)
+![Bonfire](bonfire.gif)
+
+Soy Roberto Blázquez Martín, tengo 19 años y soy <span style="color:white"> Técnico en sistemas microinformáticos  </span> y <span style="color:white"> Desarrollador muy junior de ASP NET CORE y NET CORE </span> 
 
 ## Proyectos en los que estoy trabajando actualmente
-- Bot de discord por reconocimiento de voz.(privado)
+- Bot de discord por reconocimiento de voz. (Privado)
 
 ## Lenguajes que suelo usar
 
@@ -12,12 +14,13 @@
 - GDscript
 - Javascript
 - CSS
+- Html
 
 ## Actividad
 
-![Stats](https://github-readme-stats.vercel.app/api?username=xBaank&show_icons=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=xBaank&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xBaank&layout=compact)](https://github.com/xBaank/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xBaank&layout=compact&theme=radical)](https://github.com/xBaank/)
 
 
 
