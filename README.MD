@@ -5,7 +5,7 @@
 Soy Roberto Blázquez Martín, tengo 19 años y soy <span style="color:white"> Técnico en sistemas microinformáticos  </span> y <span style="color:white"> Desarrollador muy junior de ASP NET CORE y NET CORE </span> 
 
 ## Proyectos en los que estoy trabajando actualmente
-- Bot de discord por reconocimiento de voz. (Privado)
+- Bot de discord 
 
 ## Lenguajes que suelo usar
 
