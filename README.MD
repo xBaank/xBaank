@@ -8,19 +8,23 @@
 ### Basically I can develop:
 -  Web pages with ASP NET
 -  REST APIs with ASP NET
--  Console Applications
+-  Console Applications with NET
+-  Databases with mariadb/sqlserver and EntityFramwork
 
 # What are you working on❓
 - [ ] DiscordMusicBot
 - [ ] Youpus
 
-# What languages do you use❓
-- C#
-- Java
-- GDscript
-- Javascript
-- CSS
-- Html
+# What technologies do you use❓
+- [X] C#
+- [X] SQL
+- [X] EntityFramework
+- [X] Razor
+- [X] Docker
+- [X] Java
+- [X] Javascript
+- [X] CSS
+- [X] Html
 
 # What do you want to learn❓
 - My goal is to develop video games, but first I want to finish what I've started.
