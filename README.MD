@@ -9,7 +9,7 @@
 -  Web pages with ASP NET
 -  REST APIs with ASP NET
 -  Console Applications with NET
--  Databases with mariadb/sqlserver and EntityFramwork
+-  Databases with Mariadb/Sqlserver and EntityFramework
 
 # What are you working on❓
 - [ ] DiscordMusicBot
