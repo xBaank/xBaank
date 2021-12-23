@@ -25,6 +25,7 @@
 - [X] Javascript
 - [X] CSS
 - [X] Html
+- [X] Git
 
 # What do you want to learn❓
 - My goal is to develop video games, but first I want to finish what I've started.
