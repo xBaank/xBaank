@@ -1,4 +1,4 @@
-![Bonfire](https://raw.githubusercontent.com/xBaank/xBaank/master/banner.jpg)
+![Bonfire](banner.jpg)
 
 <h1 style="text-align:center;"> 👊Roberto Blázquez Martín👊 </h1>
 
@@ -41,8 +41,8 @@
 
 ## Contacts  
 
-<a href="https://twitter.com/Bankyz_BS"><img src="https://raw.githubusercontent.com/xBaank/xBaank/master/twittericon.png" width=70 ></a> 
-<a href="https://github.com/xBaank"><img src="https://raw.githubusercontent.com/xBaank/xBaank/master/githubicon.svg" width=70 ></a>
+<a href="https://twitter.com/Bankyz_BS"><img src="twittericon.png" width=70 ></a> 
+<a href="https://github.com/xBaank"><img src="githubicon.svg" width=70 ></a>
 
 
 
