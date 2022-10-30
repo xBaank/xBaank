@@ -1,5 +1,3 @@
-***It’s the job that’s never started as takes longest to finish.***
-
 ## Activity
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=xBaank&show_icons=true&theme=apprentice&hide_rank=true&hide_title=true) 
