@@ -9,7 +9,7 @@
 
 <a href="https://twitter.com/Bankyz_BS"><img src="twittericon.png" width=70 ></a> 
 <a href="https://github.com/xBaank"><img src="githubicon.svg" width=70 ></a>
-<a href="https://github.com/xBaank"><img src="discordicon.png" width=80 ></a>
+<a href="https://discordapp.com/users/327747327316066305"><img src="discordicon.png" width=80 ></a>
 
 
 
